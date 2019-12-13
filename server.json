@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {   "id": 1,
+            "description":"Awesome hamburger cake! I do this!", 
+            "image": "https://raw.githubusercontent.com/Danitizado/apifake/master/posts/hamburguer-cake.jpg",
+            "user-avatar": "",
+            "username": "@cakeboss"
+        },
+        {   "id": 2, 
+            "description": "Here in Mario Universe", 
+            "image": "https://raw.githubusercontent.com/Danitizado/apifake/master/posts/bowser-mario.jpg",
+            "user-avatar": "",
+            "username": "@thegamer"
+        },
+        {   "id": 3, 
+            "description": "Zelda in MC Donald's.", 
+            "image": "https://raw.githubusercontent.com/Danitizado/apifake/master/posts/mczelda.jpg",
+            "user-avatar": "",
+            "username": "@mcdonalds"
+        },
+        {   "id": 4, 
+            "description": "Friendship and Love Forever!", 
+            "image": "https://raw.githubusercontent.com/Danitizado/apifake/master/posts/love.jpg",
+            "user-avatar": "",
+            "username": "@thelovefriend"
+        },
+        {   "id": 5, 
+            "description": "In some place in North America.", 
+            "image": "https://raw.githubusercontent.com/Danitizado/apifake/master/posts/forest.jpg",
+            "user-avatar": "",
+            "username": "@tumblrblogger"
+        },
+        {   "id": 6, 
+            "description": "Titans Teens, the best thing in Netflix", 
+            "image": "https://raw.githubusercontent.com/Danitizado/apifake/master/posts/titans-teens.jpg",
+            "user-avatar": "",
+            "username": "@serieskiller"
+        }
+    ]
+}
